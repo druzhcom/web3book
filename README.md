@@ -4,11 +4,15 @@ description: >-
   в сфере web3.
 ---
 
-# web3book
+# Третье междусетье
 
 В данной книге собираются все сферы и способы применения набора технологий, которые называются общим словом web3.
 
 Можно назвать эту книгу - карманный справочник по web3.
+
+Ссылка 1: [https://druzhcom.gitbook.io/web3book/](https://druzhcom.gitbook.io/web3book/)
+
+Ссылка 2: [https://web3book.ru](https://web3book.ru)&#x20;
 
 ### Что включает web3?
 
