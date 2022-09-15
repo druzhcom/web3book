@@ -1,3 +1,3 @@
 # Table of contents
 
-* [web3book](README.md)
+* [Третье междусетье](README.md)
