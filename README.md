@@ -10,9 +10,8 @@ description: >-
 
 Можно назвать эту книгу - карманный справочник по web3.
 
-Ссылка 1: [https://druzhcom.gitbook.io/web3book/](https://druzhcom.gitbook.io/web3book/)
-
-Ссылка 2: [https://web3book.ru](https://web3book.ru)&#x20;
+* Ссылка 1: [https://druzhcom.gitbook.io/web3book/](https://druzhcom.gitbook.io/web3book/)
+* Ссылка 2: [https://web3book.ru](https://web3book.ru)&#x20;
 
 ### Что включает web3?
 
