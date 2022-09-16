@@ -8,4 +8,4 @@
 
 ## DAO
 
-* [Концепция ДАО](dao/koncepciya-dao.md)
+* [Концепция ДАО](dao.md)
