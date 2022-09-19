@@ -9,3 +9,7 @@
 ## DAO
 
 * [Концепция ДАО](dao/koncepciya-dao.md)
+
+## Инструкции
+
+* [Добавить токен на Uniswap](instrukcii/dobavit-token-na-uniswap.md)
