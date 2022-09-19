@@ -10,6 +10,10 @@ description: Как добавить токен на DEX Uniswap
 
 Если вы ставите в пару 0,1 ETH и 1000 ваших токенов, то цена вашего токена устанавливается на уровне 10000 за ETH или 0,0001 ETH за 1 ваш токен.
 
+* Подписаться на составителей web3book: [https://t.me/druzhcom](https://t.me/druzhcom)&#x20;
+* Обсудить инструкцию в группе: [https://t.me/YatDAO](https://t.me/YatDAO)
+* Присоедениться к DAO в Discord: [https://discord.gg/WfRhsubw3P](https://discord.gg/WfRhsubw3P)&#x20;
+
 ## Добавить токен в DEX
 
 1. Открыть [https://app.uniswap.org/#/pool](https://app.uniswap.org/#/pool)&#x20;
