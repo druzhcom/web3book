@@ -9,6 +9,7 @@
 ## DAO
 
 * [Концепция ДАО](dao/koncepciya-dao.md)
+* [Архиектура DAO](dao/arkhiektura-dao.md)
 
 ## Инструкции
 

@@ -1,7 +1,5 @@
 # Алгоритмические
 
-## Общая информация
-
 * Подписаться на составителей web3book: [https://t.me/druzhcom](https://t.me/druzhcom)&#x20;
 * Обсудить статью в группе: [https://t.me/YatDAO](https://t.me/YatDAO)
 * Присоедениться к DAO в Discord: [https://discord.gg/WfRhsubw3P](https://discord.gg/WfRhsubw3P)&#x20;
