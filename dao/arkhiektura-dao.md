@@ -155,3 +155,9 @@ Snapshot заслуживает отдельного внимания, поск�
 ## Юридическая законность&#x20;
 
 Будущее DAO интересно, особенно с юридической точки зрения. Есть ли смысл в том, чтобы ДАО жили по тем же правилам, что и другие компании? Сложно определить, кого можно привлечь к ответственности за то, что делает DAO, и как вообще закрыть эту компанию.
+
+## Полезные источники
+
+1. Code-along | Governance & DAOs [https://www.youtube.com/watch?v=rD8AxZ\_wBA4](https://www.youtube.com/watch?v=rD8AxZ\_wBA4) &#x20;
+2. Governor C: Sybil-Resistant Quadratic Voting System [https://devpost.com/software/governor-c-sybil-resistant-quadratic-voting-system](https://devpost.com/software/governor-c-sybil-resistant-quadratic-voting-system)&#x20;
+
